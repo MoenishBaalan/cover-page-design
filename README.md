@@ -138,5 +138,3 @@ To develop a website to display the cover page design of a book
 Output has been successfully executed
 
 
-## Result:
-Write your result
